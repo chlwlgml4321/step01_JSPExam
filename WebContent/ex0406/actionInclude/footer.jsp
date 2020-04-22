@@ -13,7 +13,7 @@
 </script>
 </head>
 <body>
-
+<h1>수정</h1>
 <%
 //parameter로 전송된 데이터를 받기(request전송)
 	String addr= request.getParameter("address");
